@@ -1,2 +1,2 @@
 # final_osc
-The report for the final exam is ...
+The final project for Operating System Concepts by Abylkair, Leila and Tamerlan.
